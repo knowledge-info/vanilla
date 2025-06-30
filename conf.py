@@ -15,9 +15,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'activate.apple.com'
-copyright = '2025, activate.apple.com'
-author = 'activate.apple.com'
+project = 'vanilla gift balance'
+copyright = '2025, vanilla gift balance'
+author = 'vanillagiftbalance'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -32,7 +32,7 @@ html_favicon = 'favicon.ico'
 
 
 # Add any paths that contain templates here, relative to this directory.
-# templates_path = ['_templates']
+templates_path = ['_templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
