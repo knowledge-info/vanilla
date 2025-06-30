@@ -1,1 +1,1 @@
-# paddypower
+# vanilla gift balance
