@@ -3,7 +3,7 @@ vanilla gift balance - Activation, Balance, Transfers & Expiry
 
 .. image:: get.jpg
    :alt: vanilla gift balance
-   :target: https://fm.ci?aHR0cHM6Ly92YW5pbGxhaGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://vanilla-gift-balance.jimdosite.com/
 
 Whether you’re new to Vanilla Gift Cards or just want a refresher, this guide has everything you need—from turning it on to spending it smartly.
 
